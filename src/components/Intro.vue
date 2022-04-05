@@ -3,7 +3,7 @@
         <article class="intro" id="intro">
             <p class="intro__greeting">Hi! I'm</p>
             <h1>Pawel Jaromin</h1>
-            <h2>and I'm eager for new challenges</h2>
+            <h2>and let us develop some serious content!</h2>
             <p class="intro__description">{{ intro.intro }}</p>
             <span
                 ><br />I'm looking forward to new experiences working with You!
