@@ -85,11 +85,11 @@ export default {
 
     computed: {
         aboutMeSnippet() {
-            return this.aboutMe.substring(0, 443);
+            return this.aboutMe.substring(0, 469);
         },
 
         aboutMeRest() {
-            return this.aboutMe.substring(443);
+            return this.aboutMe.substring(469);
         },
     },
 };
