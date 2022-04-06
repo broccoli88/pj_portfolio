@@ -125,7 +125,7 @@ export default {
     width: min(100%, 90rem);
     margin: 2rem 0;
     position: relative;
-    margin-bottom: 8rem;
+    margin-bottom: 4rem;
 }
 
 .technologies::before {

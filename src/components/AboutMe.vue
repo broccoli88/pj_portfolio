@@ -98,7 +98,7 @@ export default {
 <style>
 .about {
     min-height: 100vh;
-    margin-top: 3rem;
+    margin-top: 10rem;
 
     display: flex;
     flex-direction: column;
