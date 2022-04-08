@@ -2,14 +2,14 @@
   "projects": [
     {
       "title": "Book Library",
-      "body": "Project to store list of books with adding, sorting in descending and ascending order functionality, marking favorites and finished books",
+      "body": "App created with Vue.js and Javascript, utilizing effectively computed properties and methods, based on Options API. Let user add and remove positions, sort in descending and ascending order and filter on favourite and already read properties.",
       "technologies": "JS, Vue",
       "liveAppLink": "https://pawel-jaromin-book-library.vercel.app/",
       "gitLink": "https://github.com/broccoli88/vue-book-library"
     },
     {
       "title": "Memory Game",
-      "body": "Enjoyable game for kids with nice animal icons",
+      "body": "Based on a classic memory game, this application has been designed in raw Javascript with the addition of elements of CSS 3d perspective. It relies on event handling and manipulation of DOM objects.",
       "technologies": "HTML, CSS, JavaScript",
       "liveAppLink": "https://memory-game-by-pawel-jaromin.netlify.app",
       "gitLink": "https://github.com/broccoli88/Memory-game"
@@ -17,14 +17,14 @@
 
     {
       "title": "Weather App",
-      "body": "App based on API from https://www.weatherapi.com/, displaying country, weather and temperature based on choosen city",
+      "body": "The application uses API provided by weatherapi.com set up with Node.js and JavaScript. Displays current weather, temperature and time based on the chosen city.",
       "technologies": "JS, Node.js, Express, Heroku, API",
       "liveAppLink": "https://pawel-jaromin-weather-app.herokuapp.com/",
       "gitLink": "https://github.com/broccoli88/Weather-api"
     },
     {
       "title": "Homey Goat",
-      "body": "Website for a miniature painting studio  ",
+      "body": "Responsive website for a miniature painting studi built with HTML, CSS and JavaScript. ",
       "technologies": "HTML, CSS, JavaScript",
       "liveAppLink": "https://homey-goat.netlify.app",
       "gitLink": "https://github.com/broccoli88/Homey_Goat"
