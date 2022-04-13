@@ -6,7 +6,7 @@
             <Button @click="ETGoHome">Home</Button>
             <a
                 class="download"
-                href="https://mega.nz/file/iN9RyATT#nEq4cGboCHJFPoDP9ugO5ZK9VAzlnRxGu4HBHfaS4Wg"
+                href="https://mega.nz/file/qMElRSKZ#EiWrHJ0xoysV1s3f2iL535D877eJ429CMkLmZO309E0"
                 download
                 target="_blank"
             >
@@ -14,7 +14,7 @@
             </a>
         </div>
         <figure class="resume-scan">
-            <img src="../assets/Pawel_Jaromin_Resume.png" alt="" />
+            <img src="../assets/Resume_Pawel_Jaromin.png" alt="" />
         </figure>
     </article>
 
