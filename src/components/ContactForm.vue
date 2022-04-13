@@ -24,8 +24,6 @@
                 <label for="name" class="sr-only">First Name</label>
                 <input
                     required
-                    placeholder="First Name"
-                    v-noError
                     v-model="firstName"
                     v-scrollAnimation
                     @blur="loseOutline"
@@ -34,6 +32,8 @@
                     type="text"
                     id="name"
                     name="Name"
+                    placeholder="First Name"
+                    aria-invalid="false"
                     aria-errormessage="err1"
                 />
                 <span
@@ -64,7 +64,6 @@
                 <label for="email" class="sr-only">Email</label>
                 <input
                     required
-                    v-noError
                     v-model="email"
                     v-scrollAnimation
                     @blur="loseOutline"
@@ -85,12 +84,10 @@
                 <label for="message" class="sr-only">Message</label>
                 <textarea
                     required
-                    v-noError
                     v-model="message"
                     v-scrollAnimation
                     @blur="loseOutline"
                     @focus="outline"
-                    @invalid="checkIfInvalid"
                     class="contact__input"
                     name="Message"
                     id="message"
@@ -333,10 +330,6 @@ export default {
 
     .area-name {
         grid-area: name;
-    }
-
-    .area-name {
-        background: inherit;
     }
 
     .area-last-name {
