@@ -2,7 +2,7 @@
     <transition name="first-show" appear>
         <article class="intro" id="intro">
             <p class="intro__greeting">Hi! I'm</p>
-            <h1>Pawel Jaromin</h1>
+            <h1>Pawel Jarominn</h1>
             <h2>and let us develop some serious content!</h2>
             <p class="intro__description">{{ intro.intro }}</p>
             <span
