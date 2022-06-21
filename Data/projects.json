@@ -2,14 +2,14 @@
   "projects": [
     {
       "title": "Invoice App",
-      "body": "Full CRUD app for efficient invoice document management with clean and solid design.",
+      "body": "CRUD app for efficient invoice document management with clean and solid design.",
       "technologies": "Vue.js, Firebase, Pinia",
       "liveAppLink": "https://invoice-app-five-omega.vercel.app/",
       "gitLink": "https://github.com/broccoli88/invoice-app"
     },
     {
       "title": "Book Library",
-      "body": "App created with Vue.js and Javascript, utilizing effectively computed properties and methods, based on Options API. Let user add and remove positions, sort in descending and ascending order and filter on favourite and already read properties.",
+      "body": "App meant to help keep track of book collection thanks to the implemented various filter functions.",
       "technologies": "JS, Vue.js",
       "liveAppLink": "https://pawel-jaromin-book-library.vercel.app/",
       "gitLink": "https://github.com/broccoli88/vue-book-library"
@@ -23,7 +23,7 @@
     },
     {
       "title": "Homey Goat",
-      "body": "Responsive website for a miniature painting studi built with HTML, CSS and JavaScript. ",
+      "body": "Responsive website design for a miniature painting studio.  Built with HTML, CSS and JavaScript accordingly to the Mobile-First implementation rule.  ",
       "technologies": "HTML, CSS, JavaScript",
       "liveAppLink": "https://homey-goat.netlify.app",
       "gitLink": "https://github.com/broccoli88/Homey_Goat"

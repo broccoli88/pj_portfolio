@@ -3,9 +3,8 @@
         <article class="intro" id="intro">
             <p class="intro__greeting">Hi! I'm</p>
             <h1>Pawel Jaromin</h1>
-            <h2>and let us develop some serious content!</h2>
             <p class="intro__description">{{ intro.intro }}</p>
-            <span><br />I'm looking forward to working with You! </span>
+            <h3>Let's create something unique!</h3>
         </article>
     </transition>
 </template>
@@ -41,8 +40,8 @@ export default {
     flex-direction: column;
 }
 
-.intro h2 {
-    margin: 1rem 0 3rem 0;
+.intro h3 {
+    margin: 7rem 0 3rem 0;
     color: var(--color-secondary);
 }
 
