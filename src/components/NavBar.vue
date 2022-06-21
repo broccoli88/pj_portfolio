@@ -89,6 +89,7 @@
                         </li>
                         <li>
                             <router-link
+                                @click="hideNavMobile"
                                 :to="{ name: 'resume' }"
                                 class="link__mobile resume"
                                 >Resume</router-link
