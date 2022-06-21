@@ -56,7 +56,7 @@
                     height="50"
                     :inline="true"
                 />
-                <figcaption>Vue</figcaption>
+                <figcaption>Vue.js</figcaption>
             </figure>
             <figure @mouseenter="hoverOver" @mouseleave="hoverOut">
                 <Icon

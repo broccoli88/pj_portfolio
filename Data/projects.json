@@ -1,20 +1,19 @@
 {
   "projects": [
     {
+      "title": "Invoice App",
+      "body": "Full CRUD app for efficient invoice document management with clean and solid design.",
+      "technologies": "Vue.js, Firebase, Pinia",
+      "liveAppLink": "https://invoice-app-five-omega.vercel.app/",
+      "gitLink": "https://github.com/broccoli88/invoice-app"
+    },
+    {
       "title": "Book Library",
       "body": "App created with Vue.js and Javascript, utilizing effectively computed properties and methods, based on Options API. Let user add and remove positions, sort in descending and ascending order and filter on favourite and already read properties.",
-      "technologies": "JS, Vue",
+      "technologies": "JS, Vue.js",
       "liveAppLink": "https://pawel-jaromin-book-library.vercel.app/",
       "gitLink": "https://github.com/broccoli88/vue-book-library"
     },
-    {
-      "title": "Memory Game",
-      "body": "Based on a classic memory game, this application has been designed in raw Javascript with the addition of elements of CSS 3d perspective. It relies on event handling and manipulation of DOM objects.",
-      "technologies": "HTML, CSS, JavaScript",
-      "liveAppLink": "https://memory-game-by-pawel-jaromin.netlify.app",
-      "gitLink": "https://github.com/broccoli88/Memory-game"
-    },
-
     {
       "title": "Weather App",
       "body": "The application uses API provided by weatherapi.com set up with Node.js and JavaScript. Displays current weather, temperature and time based on the chosen city.",
