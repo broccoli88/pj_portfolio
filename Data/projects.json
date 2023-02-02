@@ -16,7 +16,7 @@
     },
     {
       "title": "Landing Page",
-      "body": "Responsive Landing page for an imaginary hosting company .",
+      "body": "Responsive Landing page for an imaginary hosting company.",
       "technologies": "HTML, CSS, JavaScript",
       "liveAppLink": "https://hostify-pj.netlify.app/",
       "gitLink": "https://github.com/broccoli88/hostify-landing-page"
