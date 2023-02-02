@@ -15,11 +15,11 @@
       "gitLink": "https://github.com/broccoli88/vue-book-library"
     },
     {
-      "title": "Weather App",
-      "body": "The application uses API provided by weatherapi.com set up with Node.js and JavaScript. Displays current weather, temperature and time based on the chosen city.",
-      "technologies": "JS, Node.js, Express, Heroku, API",
-      "liveAppLink": "https://pawel-jaromin-weather-app.herokuapp.com/",
-      "gitLink": "https://github.com/broccoli88/Weather-api"
+      "title": "Landing Page",
+      "body": "Responsive Landing page for an imaginary hosting company .",
+      "technologies": "HTML, CSS, JavaScript",
+      "liveAppLink": "https://hostify-pj.netlify.app/",
+      "gitLink": "https://github.com/broccoli88/hostify-landing-page"
     },
     {
       "title": "Homey Goat website",
