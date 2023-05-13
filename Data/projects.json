@@ -1,32 +1,32 @@
 {
-  "projects": [
-    {
-      "title": "Invoice App",
-      "body": "CRUD app for efficient invoice document management with clean and solid design.",
-      "technologies": "Vue.js, Firebase, Pinia",
-      "liveAppLink": "https://invoice-app-five-omega.vercel.app/",
-      "gitLink": "https://github.com/broccoli88/invoice-app"
-    },
-    {
-      "title": "Book Library",
-      "body": "App meant to help keep track of book collection thanks to the implemented various filter functions.",
-      "technologies": "JS, Vue.js",
-      "liveAppLink": "https://pawel-jaromin-book-library.vercel.app/",
-      "gitLink": "https://github.com/broccoli88/vue-book-library"
-    },
-    {
-      "title": "Landing Page",
-      "body": "Responsive Landing page for an imaginary hosting company.",
-      "technologies": "HTML, CSS, JavaScript",
-      "liveAppLink": "https://hostify-pj.netlify.app/",
-      "gitLink": "https://github.com/broccoli88/hostify-landing-page"
-    },
-    {
-      "title": "Homey Goat website",
-      "body": "Responsive website design for a miniature painting studio.  Built with HTML, CSS and JavaScript accordingly to the Mobile-First implementation rule.  ",
-      "technologies": "HTML, CSS, JavaScript",
-      "liveAppLink": "https://homey-goat.netlify.app",
-      "gitLink": "https://github.com/broccoli88/Homey_Goat"
-    }
-  ]
+	"projects": [
+		{
+			"title": "Invoice App",
+			"body": "CRUD app integrating Pinia state management and Firebase for storing and retrieving data.",
+			"technologies": "Vue.js, Firebase, Pinia",
+			"liveAppLink": "https://invoice-app-five-omega.vercel.app/",
+			"gitLink": "https://github.com/broccoli88/invoice-app"
+		},
+		{
+			"title": "Anime App",
+			"body": "Responsive Vue.js SPA app using the Composition API, which integrates an Anime DB API. It allows users to search for anime titles, view details on specific anime, and create their own anime list. The app utilizes routing to provide a seamless user experience. ",
+			"technologies": "Vue.js, JavaScript, API, Sass, Responsive Design",
+			"liveAppLink": "https://anime-list-git-main-broccoli88.vercel.app/",
+			"gitLink": "https://github.com/broccoli88/anime-list"
+		},
+		{
+			"title": "Landing Page",
+			"body": "Responsive Landing page for an imaginary hosting company.",
+			"technologies": "HTML, CSS, JavaScript, Responssive Design",
+			"liveAppLink": "https://hostify-pj.netlify.app/",
+			"gitLink": "https://github.com/broccoli88/hostify-landing-page"
+		},
+		{
+			"title": "Book Library",
+			"body": "App meant to help keep track of book collection thanks to the implemented various filter functions.",
+			"technologies": "JS, Vue.js",
+			"liveAppLink": "https://pawel-jaromin-book-library.vercel.app/",
+			"gitLink": "https://github.com/broccoli88/vue-book-library"
+		}
+	]
 }
