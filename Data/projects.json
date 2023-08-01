@@ -1,11 +1,11 @@
 {
 	"projects": [
 		{
-			"title": "Homey Goat Miniature Painting Studio",
-			"body": "Responsive Web Design built with Vue.js Composition API incorporating Vue Routing and Pinia state management. Includes simple administration panel connected with Firebase Firestore, Storage and Authentication. Smooth transitions, animations supported with gsap, and clean and neat design provides very good users experience.   ",
-			"technologies": "Vue.js, Pinia,  Firebase, Sass, JavaScript, Gsap, Vuelidate ",
+			"title": " Miniature Painting Studio Website",
+			"body": "Website for Miniature Painting Studio including gallery connected with Firebase Firestore, Administration panel connected with Firebase Firestore, Authentication and Storage, and Blog implementation based on headless CMS. Responsive design with mobile-first approach built with Vue.js framework and Pinia state management.",
+			"technologies": "Vue.js, Pinia,  Firebase, Sass, JavaScript, Headless CMS",
 			"liveAppLink": "https://koza-ten.vercel.app/",
-			"gitLink": "https://github.com/broccoli88/koza"
+			"gitLink": "https://github.com/broccoli88/miniature-painting-studio-website"
 		},
 		{
 			"title": "Anime App",
