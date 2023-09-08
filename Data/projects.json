@@ -3,16 +3,16 @@
 		{
 			"title": " Miniature Painting Studio Website",
 			"body": "Website for Miniature Painting Studio including gallery connected with Firebase Firestore, Administration panel connected with Firebase Firestore, Authentication and Storage, and Blog implementation based on headless CMS. Responsive design with mobile-first approach built with Vue.js framework and Pinia state management.",
-			"technologies": "Vue.js, Pinia,  Firebase, Sass, JavaScript, Headless CMS",
+			"technologies": "Vue.js, Pinia,  Firebase, Sass, JavaScript, CMS",
 			"liveAppLink": "https://koza-ten.vercel.app/",
 			"gitLink": "https://github.com/broccoli88/miniature-painting-studio-website"
 		},
 		{
-			"title": "Anime App",
-			"body": "Responsive Vue.js SPA app using the Composition API, which integrates an Anime DB API. It allows users to search for anime titles, view details on specific anime, and create their own anime list. The app utilizes routing to provide a seamless user experience. ",
-			"technologies": "Vue.js, JavaScript, API, Sass, Responsive Design",
-			"liveAppLink": "https://anime-list-git-main-broccoli88.vercel.app/",
-			"gitLink": "https://github.com/broccoli88/anime-app"
+			"title": "Anime DB",
+			"body": "Responsive Vue.js app using the Composition API, which integrates an Anime DB REST Api, also with implemented Firestore which allows user to create his list of anime.",
+			"technologies": "Vue.js, JavaScript, RESTAPI, Sass, Responsive Design, Firestore, Pinia",
+			"liveAppLink": "https://anime-db-steel.vercel.app/",
+			"gitLink": "https://github.com/broccoli88/anime-db"
 		},
 		{
 			"title": "Invoice App",
@@ -24,7 +24,7 @@
 		{
 			"title": "Landing Page",
 			"body": "Responsive Landing page for an imaginary hosting company.",
-			"technologies": "HTML, CSS, JavaScript, Responssive Design",
+			"technologies": "HTML, CSS, JavaScript, Responsive Design",
 			"liveAppLink": "https://hostify-pj.netlify.app/",
 			"gitLink": "https://github.com/broccoli88/hostify-landing-page"
 		}
