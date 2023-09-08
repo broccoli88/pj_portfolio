@@ -6,7 +6,7 @@
 			<Button @click="ETGoHome">Home</Button>
 			<a
 				class="download"
-				href="https://mega.nz/file/CVNlyYLY#P9p3YrWc-Ezd1EAuU8Z2SCgA7f2XzGpnIhbhy0EZkS8"
+				href="https://mega.nz/file/mcFjEZjL#P9p3YrWc-Ezd1EAuU8Z2SCgA7f2XzGpnIhbhy0EZkS8"
 				download
 				target="_blank"
 			>
